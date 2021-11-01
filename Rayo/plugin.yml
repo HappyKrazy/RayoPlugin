@@ -1,9 +1,0 @@
-main: happy.rayo.Main
-version: 1.0
-name: Rayo
-author: HappyKrazy
-description: Prueba
-commands:
- rayo:
-  aliases: [r]
-  description: All commands of Rayo.
